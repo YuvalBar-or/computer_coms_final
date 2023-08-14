@@ -9,5 +9,8 @@ note this is ethical as we're am part of the whatsapp group and just need to sto
 [Paper, slides, and video (NDSS'2020)](https://www.ndss-symposium.org/ndss-paper/practical-traffic-analysis-attacks-on-secure-messaging-applications/)
 
 ## Links:
+* https://github.com/YuvalBar-or/computer_coms_final.git
+* https://github.com/Joshua-D-Gordon/Final_Project_Comunications.git
+
 * 
 
