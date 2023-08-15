@@ -70,5 +70,3 @@ In contrast to the conclusions outlined in the article, our CCDF analysis did no
 ## Links:
 * https://github.com/YuvalBar-or/computer_coms_final.git
 * https://github.com/Joshua-D-Gordon/Final_Project_Comunications.git
-
-* 
