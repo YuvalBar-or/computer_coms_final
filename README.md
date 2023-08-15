@@ -55,6 +55,10 @@ Presented below are the aforementioned graphs:
 <img width="935" alt="Screenshot 2023-08-15 at 14 16 06" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/818d57c2-34ff-4eb1-8c58-fdfe44240aaa">
 
 * images group:
+* 
+<img width="982" alt="Screenshot 2023-08-16 at 1 06 52" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/22ef664c-e867-4187-956f-57f5861aa011">
+
+<img width="909" alt="Screenshot 2023-08-16 at 1 06 59" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/2b0fbd73-f311-4cc3-a927-b079821936cd">
 
 * text group:
 
