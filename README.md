@@ -65,7 +65,9 @@ Presented below are the aforementioned graphs:
 <img width="925" alt="Screenshot 2023-08-16 at 1 08 17" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/1c914afe-4683-4943-a06d-fbfd5c5a2bb3">
 
 * video group: 
+<img width="929" alt="Screenshot 2023-08-16 at 1 09 03" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/8c52b089-5701-4547-973c-a70b26d068de">
 
+<img width="946" alt="Screenshot 2023-08-16 at 1 09 10" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/e2963924-e3f6-40b5-9195-c7d98c75c3dd">
 
 After analyzing individual groups, our focus shifted to identifying distinct characteristics for each. The algorithm in the referenced article estimates message sizes using distributions, creating unique channels. This estimation employs the Complementary Cumulative Distribution Function (CCDF) as a defining feature. CCDF represents the likelihood of a variable exceeding a value, providing a perspective inverse to the Cumulative Distribution Function (CDF).<br/>
 
