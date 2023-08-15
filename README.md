@@ -50,6 +50,10 @@ Presented below are the aforementioned graphs:
 
 * audio group:
 
+<img width="932" alt="Screenshot 2023-08-15 at 14 15 59" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/377c307e-ba7e-4e09-82c7-eff3b3fb2d5c">
+
+<img width="935" alt="Screenshot 2023-08-15 at 14 16 06" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/818d57c2-34ff-4eb1-8c58-fdfe44240aaa">
+
 * images group:
 
 * text group:
