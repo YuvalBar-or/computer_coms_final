@@ -58,6 +58,7 @@ After analyzing individual groups, our focus shifted to identifying distinct cha
 
 our CCDF: <br/>
 In contrast to the conclusions outlined in the article, our CCDF analysis did not reveal a discernible feature unique to any of the groups. Evidently, the distribution patterns among the groups exhibit substantial similarity, despite variations in the specific values. The overall trend remains consistent across all groups.
+
 <img width="987" alt="Screenshot 2023-08-15 at 14 12 50" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/520f70fd-6e52-44de-a35f-7c7071ec83ba">
 
 
