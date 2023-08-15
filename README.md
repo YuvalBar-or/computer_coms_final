@@ -44,7 +44,7 @@ WhatsApp employs robust security measures, including end-to-end encryption with 
 #### The attacked user is always active in (at most) a single IM group.
 Presented below are the aforementioned graphs: 
 * all group:
-* 
+  
 <img width="971" alt="Screenshot 2023-08-15 at 14 14 28" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/2b4e3e71-c9da-403b-98a8-b4a38d6d6a0f">
 
 <img width="981" alt="Screenshot 2023-08-15 at 14 14 35" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/a63e8a08-96bf-4aa2-801f-4eae5fc57e7a">
