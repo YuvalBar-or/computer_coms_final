@@ -60,6 +60,9 @@ Presented below are the aforementioned graphs:
 <img width="909" alt="Screenshot 2023-08-16 at 1 06 59" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/2b0fbd73-f311-4cc3-a927-b079821936cd">
 
 * text group:
+<img width="929" alt="Screenshot 2023-08-16 at 1 08 07" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/61bbe689-6efc-4355-9277-2e9baa8ecae5">
+
+<img width="925" alt="Screenshot 2023-08-16 at 1 08 17" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/1c914afe-4683-4943-a06d-fbfd5c5a2bb3">
 
 * video group: 
 
