@@ -33,7 +33,7 @@ Project_PDF; instructions for this project.
 we recorded communication in 5 instant messaging (IM) groups, using WhatsApp Web on a PC, and Wireshark. <br/>
 after recording we analyzed the recordings by extracting data from captured network packets, processing it, and generating various graphs for visualization. The PacketAnalyzer class serves as the focal point for consolidating the procedures related to data processing and graph generation. In contrast, the get_capture_files function is designed to gather the file paths associated with the recordings. <br/>
 
-* note - when recording, we filtered by - ip.src && tcp.port 443 <br/>
+* note - when recording, we filtered by - ip.src == 10.0.2.15 && tcp.port == 443 <br/>
 
 Our study commenced by capturing traffic from five distinct WhatsApp groups, each centered around a unique theme: images, audio, videos, file transfers, and a mixed group with an emphasis on text messages. Considering the context, we assumed that participants would be active in a single group at a time. Subsequently, we processed the group recordings through the aforementioned filtering procedure. In line with the paper's methodology, we created visual depictions showcasing inter-message delays and message sizes. Additionally, we formulated probability density functions (PDFs) for each distinct group category. These graphical analyses yield valuable insights into traffic patterns and behaviors inherent to each group. <br/>
 
