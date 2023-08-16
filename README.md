@@ -79,6 +79,11 @@ In contrast to the conclusions outlined in the article, our CCDF analysis did no
 
 
 #### The attacked user may be active in several IM groups simultaneously
+Our goal was to figure out if we can accurately tell which group an unknown member belongs to by comparing their message traffic with a known member. <br/> 
+We noticed that this unknown member was part of several groups at once. So, we looked at the messages sent by the known member and the ones received by the unknown member, and vice versa. <br/>
+We thought we'd see lots of messages that were the same because they were in the same groups. But when we looked closely at the data, we saw that even after we only looked at the messages from the group, the unknown member had a lot more data. To deal with this, we tried to make the data more fair between both members. We used some graphs called Cumulative Distribution Functions (CDF) to compare their data patterns. We did find some similarities at certain points, but they weren't very strong.
+
+<img width="959" alt="Screenshot 2023-08-16 at 11 26 51" src="https://github.com/YuvalBar-or/computer_coms_final/assets/118693941/5d265cf5-81d4-45dc-bcac-3740e7fcf840">
 
 
 
