@@ -21,9 +21,12 @@ and explored two scenarios:
 * run the following command; python3 PacketAnalyzer.py.
 
 ### about the files
-res derectory: source code and results- <br/>
-* data Analysis code.
+res derectory: source <br/>
 * the graph results. <br/>
+src directory:
+* which includes the code. <br/>
+resources directory,
+* includes sample raw data of our work- the wireshark recordings (we have 2 folders one for the first part and the second is the attacker and attaced for the point we'll cover ahead. <br/>
 
 other files: <br/>
 the dry part; Present our answers to the theoretical segment of the project. This documents encapsulate the content of the Hebrew-written article that serves as the foundation for our project. <br/>
